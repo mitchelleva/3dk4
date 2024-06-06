@@ -1,0 +1,12 @@
+{
+    "name": "2dk3mf",
+    "short_name": "2dk3mf",
+    "description": "testing 3D box idea",
+    "start_url": "/build/index.html",
+    "display": "browser",
+    "background_color": "yellow",
+    "theme_color": "red",
+    "orientation": "landscape",
+    "scope": "/build",
+    "lang": "react"
+  }
